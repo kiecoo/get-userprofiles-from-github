@@ -1,0 +1,11 @@
+{
+  "name": "get-userprofiles-from-github",
+  "version": "1.0.0",
+  "description": "get user profile data from github for wizardamigos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@kiecoo",
+  "license": "ISC"
+}
